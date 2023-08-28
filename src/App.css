@@ -79,8 +79,8 @@
 @media (max-width: 600px) {
   .app .numbers button,
   .app .operators button {
-    width: 40px; /* Decrease button size */
-    height: 40px; /* Decrease button size */
+    width: 60px; /* Decrease button size */
+    height: 60px; /* Decrease button size */
     font-size: 14px; /* Adjust font size */
   }
   .app button.clear {
